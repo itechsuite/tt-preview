@@ -112,6 +112,7 @@ export default function Footer() {
                                         <li><Link href="#">Career</Link></li>
                                     </ul >
                                 </div >
+                                {/* change */}
                             </div >
                             <div className="footer_copyright">
                                 <p>&copy; {(new Date().getFullYear())} Torqtech, All rights reserved. </p>
