@@ -16,7 +16,7 @@ export default function Home2Support() {
                                 <div className="bottom_section">
                                     <div className="link_block"><Link href="https://industify.frenify.net/1/contact/">Request an Estimate</Link></div>
                                     <div className="tfree_block">
-                                        <p>Toll Free: 1-800-987-6543 </p>
+                                        {/* <p>Toll Free: 1-800-987-6543 </p> */}
                                     </div>
                                 </div>
                             </div>

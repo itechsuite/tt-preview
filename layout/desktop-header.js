@@ -127,8 +127,8 @@ export default function DesktopHeader() {
                             <span className="shape2"></span>
                             <span className="shape3"></span>
                             <div className="tf_in">
-                                <div className="img_holder" style={{ backgroundImage: `url(${background})` }}></div>
-                                <p><span>Toll Free:</span> 1-800-987-6543</p>
+                                {/* <div className="img_holder" style={{ backgroundImage: `url(${background})` }}></div> */}
+                                {/* <p><span>Toll Free:</span> 1-800-987-6543</p> */}
                             </div>
                         </div>
 

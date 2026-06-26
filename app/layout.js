@@ -28,8 +28,8 @@ const openSans = Open_Sans({
 
 export const metadata = {
     title: {
-        template: 'Industify NextJS | %s',
-        default: 'Industify | React NextJS Template',
+        template: 'Torqtech Offshore Services Limited | %s',
+        default: 'Torqtech Offshore Services Limited',
     },
 }
 

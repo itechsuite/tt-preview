@@ -9195,6 +9195,23 @@ blockquote{
 .fn_cs_location_list .content_holder a:hover{
 	text-decoration: underline;
 }
+.fn_cs_location_list .content_holder .phone_numbers{
+	display: flex;
+	gap: 30px;
+	flex-wrap: wrap;
+}
+.fn_cs_location_list .content_holder .phone_numbers a{
+	color: #45a2df;
+	text-decoration: none;
+	white-space: nowrap;
+}
+.fn_cs_location_list .content_holder .phone_numbers a:hover{
+	text-decoration: underline;
+}
+.fn_cs_location_list .content_holder .phone_numbers a::before{
+	content: '\260E';
+	margin-right: 6px;
+}
 .fn_cs_location_list .icon_wrapper{
 	width: 80px;
 	bottom: 0px;
