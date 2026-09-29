@@ -18,7 +18,7 @@ export default function WeldingMachine() {
                             <div className="industify_fn_service_single">
 
                                 <div className="img_holder">
-                                    <img src="/img/service/single/3.jpg" alt="" />
+                                    <img src="/img/service/single/welding_machine.webp" alt="" />
                                 </div>
 
                               <div className="desc_holder">

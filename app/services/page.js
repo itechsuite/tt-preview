@@ -154,7 +154,7 @@ export default function page() {
                                     <div className="item">
                                         <div className="item_in">
                                             <div className="img_holder">
-                                                <div className="img_abs" style={{ "backgroundImage": "url(/img/service/single/1.jpg)" }}></div>
+                                                <div className="img_abs" style={{ "backgroundImage": "url(/img/service/single/air_compressor.webp)" }}></div>
                                                 <Link href="/services/Air_Compressor_Services"></Link>
                                             </div>
                                             <div className="title">
@@ -173,7 +173,7 @@ export default function page() {
                                     <div className="item">
                                         <div className="item_in">
                                             <div className="img_holder">
-                                                <div className="img_abs" style={{ "backgroundImage": "url(/img/service/single/2.jpg)" }}></div>
+                                                <div className="img_abs" style={{ "backgroundImage": "url(/img/service/single/fire_pump.webp)" }}></div>
                                                 <Link href="/services/Water_Fire_Pump_Services"></Link>
                                             </div>
                                             <div className="title">
@@ -192,7 +192,7 @@ export default function page() {
                                     <div className="item">
                                         <div className="item_in">
                                             <div className="img_holder">
-                                                <div className="img_abs" style={{ "backgroundImage": "url(/img/service/single/3.jpg)" }}></div>
+                                                <div className="img_abs" style={{ "backgroundImage": "url(/img/service/single/welding_machine.webp)" }}></div>
                                                 <Link href="/services/Welding_Machine_Services"></Link>
                                             </div>
                                             <div className="title">

@@ -61,21 +61,21 @@ const services = [
     {
         link: "/services/Air_Compressor_Services",
         img: "img/thumb/480-700.jpg",
-        bg: "/img/service/single/1.jpg",
+        bg: "/img/service/single/air_compressor.webp",
         title: "AIR COMPRESSOR SERVICES"
 
     },
     {
         link: "/services/Water_Fire_Pump_Services",
         img: "img/thumb/480-700.jpg",
-        bg: "/img/service/single/2.jpg",
+        bg: "/img/service/single/fire_pump.webp",
         title: "WATER FIRE PUMP SERVICES"
 
     },
     {
         link: "/services/Welding_Machine_Services",
         img: "img/thumb/480-700.jpg",
-        bg: "/img/service/single/3.jpg",
+        bg: "/img/service/single/welding_machine.webp",
         title: "WELDING MACHINE SERVICES"
 
     },

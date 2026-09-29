@@ -18,7 +18,7 @@ export default function AirCompressor() {
                             <div className="industify_fn_service_single">
 
                                 <div className="img_holder">
-                                    <img src="/img/service/single/1.jpg" alt="" />
+                                    <img src="/img/service/single/air_compressor.webp" alt="" />
                                 </div>
 
                               <div className="desc_holder">

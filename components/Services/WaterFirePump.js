@@ -18,7 +18,7 @@ export default function WaterFirePump() {
                             <div className="industify_fn_service_single">
 
                                 <div className="img_holder">
-                                    <img src="/img/service/single/2.jpg" alt="" />
+                                    <img src="/img/service/single/fire_pump.webp" alt="" />
                                 </div>
 
                               <div className="desc_holder">
