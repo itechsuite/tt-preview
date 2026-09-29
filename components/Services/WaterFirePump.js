@@ -2,7 +2,8 @@ import Sidebar from "@/layouts/sidebar";
 import { Check } from "@/public/svg/icon";
 import Link from "next/link";
 
-export default function BoltTensioning() {
+
+export default function WaterFirePump() {
     return (
         <>
             <div className="industify_fn_sidebarpage">
@@ -10,97 +11,102 @@ export default function BoltTensioning() {
                     <div className="s_inner">
 
 
-                        {/* Main Sidebar: Left  */}
+                        {/* Main Sidebar: Left */}
                         <div className="industify_fn_leftsidebar">
 
-                            {/* Single Service  */}
+                            {/* Single Service */}
                             <div className="industify_fn_service_single">
 
                                 <div className="img_holder">
-                         <img src="/img/service/single/bolt.webp" alt="" />
-                              </div>
-                        <div className="desc_holder">
-                       <p>
-                         Ensure the strength, safety, and reliability of your mechanical joints by using our
-                         specialised bolt torquing services. Proper bolt tightening is critical to the
-                         performance and integrity of industrial and engineering systems.
-                       </p>
-                     
-                       <p>
-                         Industries such as oil & gas, construction, power, and manufacturing face constant
-                         challenges including joint failure risks, uneven load distribution, downtime, and
-                         strict compliance with safety standards. Incorrect bolt tension can lead to leaks,
-                         equipment damage, and costly shutdowns.
-                       </p>
-                     
-                       <p>
-                         At our company, we provide precise and controlled bolt torquing solutions using
-                         calibrated tools and proven procedures. Our services help clients achieve accurate
-                         preload, maintain joint integrity, and extend the lifespan of critical equipment and
-                         structures.
-                       </p>
-                     
-                       <p>
-                         We are your trusted partner in delivering safe, efficient, and compliant bolt
-                         torquing services—ensuring every connection is secure, reliable, and ready to perform
-                         under demanding operational conditions.
-                       </p>
-              </div>
-              
-              
-                {/* Check List Shortcode  */}
-                          <div className="fn_cs_check_list">
+                                    <img src="/img/service/single/2.jpg" alt="" />
+                                </div>
+
+                              <div className="desc_holder">
+                                 <p>
+                                   Water fire pumps are the heart of any fire protection system, supplying the pressure and flow required by sprinklers, hydrants, deluge, and hose reel systems during an emergency. Ensuring these pumps are always ready to perform is critical to protecting personnel, assets, and operations.
+                                 </p>
+
+                                 <p>
+                                   Our water fire pump services include installation, commissioning, inspection, performance and flow testing, preventive maintenance, and repair of electric and diesel-driven fire pumps, jockey pumps, and associated controllers and valves. We verify that every component operates correctly and responds automatically when fire protection demand arises.
+                                 </p>
+
+                                 <p>
+                                   Through strict adherence to international fire safety standards and manufacturer requirements, we help operators maintain regulatory compliance, identify issues before they become failures, and keep their fire protection systems fully prepared. Partnering with us gives you confidence that your fire pumps will perform when it matters most.
+                                 </p>
+                               </div>
+
+
+                                {/* Check List Shortcode */}
+                                <div className="fn_cs_check_list">
                                     <h3>Service Features</h3>
                                     <div className="list">
                                         <ul>
                                             <li>
                                                 <div className="item">
                                                     <Check className="fn__svg" />
-                                                    <p>Accurate Bolt Load Control</p>
+                                                    <p>Installation & Commissioning</p>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div className="item">
                                                     <Check className="fn__svg" />
-                                                    <p>Improved Joint Integrity</p>
+                                                    <p>Performance & Flow Testing</p>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div className="item">
                                                     <Check className="fn__svg" />
-                                                    <p>Use of Certified & Calibrated Tools</p>
+                                                    <p>Electric & Diesel Pump Servicing</p>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div className="item">
                                                     <Check className="fn__svg" />
-                                                    <p>Reduced Installation Stress</p>
+                                                    <p>Jockey Pump & Controller Maintenance</p>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div className="item">
                                                     <Check className="fn__svg" />
-                                                    <p>Compliance with Industry Standards</p>
+                                                    <p>Preventive Maintenance & Repairs</p>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div className="item">
                                                     <Check className="fn__svg" />
-                                                    <p>Detailed Job Documentation & Reporting</p>
+                                                    <p>Compliance with Fire Safety Standards</p>
+                                                </div>
+                                            </li>
+                                            {/* <li>
+                                                <div className="item">
+                                                    <Check className="fn__svg" />
+                                                    <p>Power Equipment</p>
                                                 </div>
                                             </li>
                                             <li>
-                                                {/* <div className="item">
+                                                <div className="item">
                                                     <Check className="fn__svg" />
-                                                    <p>Interiors</p>
-                                                </div> */}
+                                                    <p>Power Generation</p>
+                                                </div>
                                             </li>
+                                            <li>
+                                                <div className="item">
+                                                    <Check className="fn__svg" />
+                                                    <p>Solar</p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div className="item">
+                                                    <Check className="fn__svg" />
+                                                    <p>Wind, Wave &amp; Tidal</p>
+                                                </div>
+                                            </li> */}
                                         </ul>
                                     </div>
                                 </div>
-                                {/* Check List Shortcode  */}
+                                {/* Check List Shortcode */}
 
-                                {/* Call to Action Shortcode (with corner)  */}
+                                {/* Call to Action Shortcode (with corner) */}
                                 <div className="fn_cs_call_to_action corner">
                                     <div className="container">
                                         <div className="cta_holder">
@@ -114,26 +120,26 @@ export default function BoltTensioning() {
                                         </div>
                                     </div>
                                 </div>
-                                {/* /Call to Action Shortcode (with corner)  */}
+                                {/* /Call to Action Shortcode (with corner) */}
 
-                                {/* Get Random Services  */}
-                                {/* You can change data-index value to exclude 1st service single from the service list. You can also change data-count value to set including services count.  */}
-                                <div data-html="includes/random-service" data-index="1" data-count="2"></div>
-                                {/* /Get Random Services  */}
+                                {/* Get Random Services */}
+                                {/* You can change data-index value to exclude 1st service single from the service list. You can also change data-count value to set including services count. */}
+                                <div data-html="includes/random-service" data-index="5" data-count="2"></div>
+                                {/* /Get Random Services */}
 
                             </div>
-                            {/* /Single Service  */}
+                            {/* /Single Service */}
 
 
                         </div>
-                        {/* /Main Sidebar: Left  */}
+                        {/* /Main Sidebar: Left */}
 
 
-                        {/* Main Sidebar: Right  */}
+                        {/* Main Sidebar: Right */}
                         <div className="industify_fn_rightsidebar">
 
 
-                            {/* Service List  */}
+                            {/* Service List */}
                             <div className="service_list_as_function">
                                 <div className="title">
                                     <h3>Full list of Services</h3>
@@ -149,21 +155,18 @@ export default function BoltTensioning() {
                                         <li><Link href="/services/Air_Compressor_Services">Air Compressor Services</Link></li>
                                         <li><Link href="/services/Water_Fire_Pump_Services">Water Fire Pump Services</Link></li>
                                         <li><Link href="/services/Welding_Machine_Services">Welding Machine Services</Link></li>
-                                        {/* <li><Link href="/services/serviceSinglePage3">Housewares &amp; Home Decor</Link></li>
-                                        <li><Link href="/services/serviceSinglePage2">Textiles &amp; Apparel</Link></li>
-                                        <li className="active"><Link href="/services/serviceSinglePage1">Construction &amp; Engineering</Link></li> */}
                                     </ul>
                                 </div>
                             </div>
-                            {/* /Service List  */}
+                            {/* /Service List */}
 
-                            {/* Get Sidebar  */}
+                            {/* Get Sidebar */}
                             <Sidebar />
-                            {/* /Get Sidebar  */}
+                            {/* /Get Sidebar */}
 
 
                         </div>
-                        {/* Main Sidebar: Right  */}
+                        {/* Main Sidebar: Right */}
 
                     </div>
                 </div>

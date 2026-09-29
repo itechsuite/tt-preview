@@ -58,6 +58,27 @@ const services = [
         title: "BOLT TORQUING AND TENSIONING SERVICES"
 
     },
+    {
+        link: "/services/Air_Compressor_Services",
+        img: "img/thumb/480-700.jpg",
+        bg: "/img/service/single/1.jpg",
+        title: "AIR COMPRESSOR SERVICES"
+
+    },
+    {
+        link: "/services/Water_Fire_Pump_Services",
+        img: "img/thumb/480-700.jpg",
+        bg: "/img/service/single/2.jpg",
+        title: "WATER FIRE PUMP SERVICES"
+
+    },
+    {
+        link: "/services/Welding_Machine_Services",
+        img: "img/thumb/480-700.jpg",
+        bg: "/img/service/single/3.jpg",
+        title: "WELDING MACHINE SERVICES"
+
+    },
 ]
 
 export default function HomeServices() {

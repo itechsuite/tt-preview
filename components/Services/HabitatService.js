@@ -128,7 +128,10 @@ export default function HabitatService() {
                                         <li><Link href="/services/Habitat_preparation">Habitat Preparation Services</Link></li>
                                         <li><Link href="/services/Habitat_Service">Habitat Services</Link></li>
                                         <li><Link href="/services/Fire_&_Gas_Alarm_System">Fire and Gas Alarm System Services</Link></li>
-                                        <li><Link href="/services/serviceSinglePage4">Bolt Torquing and Tensioning Services</Link></li>
+                                        <li><Link href="/services/Bolt_Torquing_&_Tensioning">Bolt Torquing and Tensioning Services</Link></li>
+                                        <li><Link href="/services/Air_Compressor_Services">Air Compressor Services</Link></li>
+                                        <li><Link href="/services/Water_Fire_Pump_Services">Water Fire Pump Services</Link></li>
+                                        <li><Link href="/services/Welding_Machine_Services">Welding Machine Services</Link></li>
                                     </ul>
                                 </div>
                             </div>

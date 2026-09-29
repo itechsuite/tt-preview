@@ -150,6 +150,63 @@ export default function page() {
                                         </div>
                                     </div>
                                 </li>
+                                <li>
+                                    <div className="item">
+                                        <div className="item_in">
+                                            <div className="img_holder">
+                                                <div className="img_abs" style={{ "backgroundImage": "url(/img/service/single/1.jpg)" }}></div>
+                                                <Link href="/services/Air_Compressor_Services"></Link>
+                                            </div>
+                                            <div className="title">
+                                                <h3><Link href="/services/Air_Compressor_Services">Air Compressor Services</Link></h3>
+                                                <p>
+                                                    Our air compressor services keep your compressed air systems running reliably and efficiently. From installation and commissioning to preventive maintenance, overhaul, and repair, we help minimize downtime and extend equipment life across industrial and oil & gas operations.
+                                                </p>
+                                            </div>
+                                            <div className="read_more">
+                                                <Link href="/services/Air_Compressor_Services">Read More</Link>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div className="item">
+                                        <div className="item_in">
+                                            <div className="img_holder">
+                                                <div className="img_abs" style={{ "backgroundImage": "url(/img/service/single/2.jpg)" }}></div>
+                                                <Link href="/services/Water_Fire_Pump_Services"></Link>
+                                            </div>
+                                            <div className="title">
+                                                <h3><Link href="/services/Water_Fire_Pump_Services">Water Fire Pump Services</Link></h3>
+                                                <p>
+                                                    Our water fire pump services ensure your fire protection systems are always ready to respond. We install, test, maintain, and repair electric and diesel-driven fire pumps, jockey pumps, and controllers in line with international fire safety standards.
+                                                </p>
+                                            </div>
+                                            <div className="read_more">
+                                                <Link href="/services/Water_Fire_Pump_Services">Read More</Link>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div className="item">
+                                        <div className="item_in">
+                                            <div className="img_holder">
+                                                <div className="img_abs" style={{ "backgroundImage": "url(/img/service/single/3.jpg)" }}></div>
+                                                <Link href="/services/Welding_Machine_Services"></Link>
+                                            </div>
+                                            <div className="title">
+                                                <h3><Link href="/services/Welding_Machine_Services">Welding Machine Services</Link></h3>
+                                                <p>
+                                                    Our welding machine services keep your welding equipment safe, reliable, and ready for work. We supply, service, calibrate, and repair arc, MIG, TIG, and engine-driven welding machines to reduce downtime and improve weld quality.
+                                                </p>
+                                            </div>
+                                            <div className="read_more">
+                                                <Link href="/services/Welding_Machine_Services">Read More</Link>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
                                 {/* <li>
                                     <div className="item">
                                         <div className="item_in">
@@ -201,6 +258,9 @@ export default function page() {
                                         <li><Link href="/services/Habitat_Service">Habitat Services</Link></li>
                                         <li><Link href="/services/Fire_&_Gas_Alarm_System">Fire and Gas Alarm System Services</Link></li>
                                         <li><Link href="/services/Bolt_Torquing_&_Tensioning">Bolt Torquing and Tensioning Services</Link></li>
+                                        <li><Link href="/services/Air_Compressor_Services">Air Compressor Services</Link></li>
+                                        <li><Link href="/services/Water_Fire_Pump_Services">Water Fire Pump Services</Link></li>
+                                        <li><Link href="/services/Welding_Machine_Services">Welding Machine Services</Link></li>
                                     </ul>
                                 </div>
                             </div>
